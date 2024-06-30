@@ -63,8 +63,8 @@ const Work = () => {
       </div>
     </div>
     <pre className='text-sm py-4 text-gray-300 px-4 text-wrap md:w-1/2 md:text-md '>
-        <p className='font-bold text-xl'>Frontend Developer (Intern)</p>
-        <p className='text-sm bg-slate-700 w-fit rounded-sm px-2 my-2'>Feb 2024 - May 2024</p>
+    <p className='font-bold text-xl'>Frontend Developer (Intern)</p>
+    <p className='text-sm bg-slate-700 w-fit rounded-sm px-2 my-2'>Feb 2024 - May 2024</p>
 
         Worked for Divine Labs,IIT Delhi under Professor Greeshma Sharma to developed interfaces for 6+ psychological tests in collaboration with
         psychologists,resulting in precise score-based interpretations.
@@ -89,8 +89,8 @@ const Work = () => {
       
     </div>
     <pre className='text-sm py-4 text-gray-300 px-4 text-wrap md:w-1/2 md:text-md '>
-        <p className='font-bold text-xl'>UI/UX (Freelance)</p>
-        <p className='text-sm bg-slate-700 w-fit rounded-sm px-2 my-2'>April 2024 - May 2024</p>
+    <p className='font-bold text-xl'>UI/UX Designer(Freelance)</p>
+    <p className='text-sm bg-slate-700 w-fit rounded-sm px-2 my-2'>April 2024 - May 2024 </p>
 
         Designed wireframes on figma for a freelance project - LockShare
         <br/>
