@@ -62,7 +62,7 @@ const Work = () => {
         </div>
       </div>
     </div>
-    <pre className='text-sm py-4 text-gray-300 px-4 text-wrap md:w-1/2 md:text-md '>
+    <pre className='text-sm py-4 font-grotesk text-gray-300 px-4 text-wrap md:w-1/2 md:text-md '>
     <p className='font-bold text-xl'>Frontend Developer (Intern)</p>
     <p className='text-sm bg-slate-700 w-fit rounded-sm px-2 my-2'>Feb 2024 - May 2024</p>
 
@@ -88,7 +88,7 @@ const Work = () => {
       </div>
       
     </div>
-    <pre className='text-sm py-4 text-gray-300 px-4 text-wrap md:w-1/2 md:text-md '>
+    <pre className='text-sm py-4 font-grotesk text-gray-300 px-4 text-wrap md:w-1/2 md:text-md '>
     <p className='font-bold text-xl'>UI/UX Designer(Freelance)</p>
     <p className='text-sm bg-slate-700 w-fit rounded-sm px-2 my-2'>April 2024 - May 2024 </p>
 
