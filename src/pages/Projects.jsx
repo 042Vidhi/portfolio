@@ -1,6 +1,6 @@
 import React from 'react';
 import ProjectCard from '../components/Project_Card';
-import ZenCashImg from '../assets/zencash_img.png'
+import ZenCashImg from '../assets/zencash_img2.png'
 import ZephyrImg from '../assets/Zephyr_img.png'
 import HappyHopImg from '../assets/HappyHop.png'
 import PredictWineQualityImg from '../assets/PredictWineQuality.png'
