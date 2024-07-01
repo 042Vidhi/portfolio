@@ -15,9 +15,9 @@ const Work = () => {
           <h2 className="text-xl font-semibold mb-2 md:text-3xl">Bluphlux</h2>
           <p className="text-sm mb-4 flex justify-between md:text-lg">
             Frontend Developer Intern
-            <button className="hover:bg-blue-900  text-gray-400  px-4 rounded-lg transition-colors duration-300">
+            <a className="hover:bg-blue-900  text-gray-400  px-4 rounded-lg transition-colors duration-300" href='https://bluphlux.com/' target='_blank' rel='noreferrer'>
             <ArrowRightAltIcon />
-          </button>
+          </a>
           </p>
         </div>
         <div className='h-20 lg:h-40 overflow-hidden mt-4 flex justify-center items-start'>
