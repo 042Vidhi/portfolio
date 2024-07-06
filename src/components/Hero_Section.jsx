@@ -64,7 +64,7 @@ const Hero = () => {
               <p className="text-zinc-300">I am a Frontend Developer.I work with ReactJs to develop websites and React Native for cross platform Mobile Development.I like to explore different fields.
               </p>
               <a className="border w-fit text-zinc-700 bg-slate-100 font-semibold hover:bg-gray-50 rounded-md p-1 mt-6 "
-                href='https://drive.google.com/file/d/1fM26MWYwjmJXQJMQEZtpv8AvrrDyeDCm/view' target='_blank' rel='noreferrer'>Resume →</a>
+                href='https://drive.google.com/file/d/1fM26MWYwjmJXQJMQEZtpv8AvrrDyeDCm/view' target='_blank' rel='noreferrer'>Resume</a>
             </div>
             <div class="relative flex-shrink-1 p-4 md:p-4 md:order-last order-first">
               <a href="https://www.linkedin.com/in/vidhi-jaiswal-38a053224/" class="block z-[5] overflow-hidden rounded shadow-xl ring-1 ring-slate-900/5 relative bg-white h-20 w-20">
